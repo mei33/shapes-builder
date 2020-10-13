@@ -1,0 +1,7 @@
+{
+  "name": "shapes-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maksim Andreev <mei33.post@gmail.com>",
+  "license": "MIT"
+}
